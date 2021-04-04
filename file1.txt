@@ -1,4 +1,4 @@
 #file1 in branch1
 some text
 line 3
-line 4 from github
+conflict
